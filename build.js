@@ -22,6 +22,22 @@ var games = [
       to: `./${distFolder}/public/games/capmancrashingbugs`
     },
     {
+      from: './docs/games/firewatch',
+      to: `./${distFolder}/public/games/firewatch`
+    },
+    {
+      from: './docs/games/closet-monsters',
+      to: `./${distFolder}/public/games/closet-monsters`
+    },
+    {
+      from: './docs/games/closet-monsters2',
+      to: `./${distFolder}/public/games/closet-monsters2`
+    },
+    {
+      from: './docs/games/desert-bus',
+      to: `./${distFolder}/public/games/desert-bus`
+    },
+    {
       from: './node_modules/phaser-league/src',
       to: `./${distFolder}/public/games/phaser-league`
     },
